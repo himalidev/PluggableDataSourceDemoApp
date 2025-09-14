@@ -5,7 +5,7 @@ Instead of inheritance knots, this app composes tiny pieces: protocols, wrappers
 
 ---
 
-## ✨ Features
+## Features
 
 - **Protocols first**
   - `DataSource` → one-shot load
@@ -23,7 +23,7 @@ Instead of inheritance knots, this app composes tiny pieces: protocols, wrappers
   - `PostListView` — one-shot load
   - `PagedPostListView` — “Load more” paging
  
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repo**
    ```bash
